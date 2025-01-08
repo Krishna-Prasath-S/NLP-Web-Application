@@ -1,6 +1,7 @@
 # NLP Web Application 🚀
 
-## OverviewThis is a web application built to help you with various Natural Language Processing (NLP) tasks. Using Streamlit, Hugging Face Transformers, and spaCy, the app offers multiple useful features like summarizing long texts, analyzing sentiments, recognizing entities (like names or dates), answering questions based on a provided context, and even completing your text prompts.
+## Overview
+- This is a web application built to help you with various Natural Language Processing (NLP) tasks. Using Streamlit, Hugging Face Transformers, and spaCy, the app offers multiple useful features like summarizing long texts, analyzing sentiments, recognizing entities (like names or dates), answering questions based on a provided context, and even completing your text prompts.
 
 The app includes:
 - User Interface: The app has a modern, responsive design, and it uses custom CSS to make sure it's easy and enjoyable to use.
