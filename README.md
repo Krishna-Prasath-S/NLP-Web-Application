@@ -11,10 +11,10 @@ The app includes:
 ---
 
 ## Features
-Text Summarization: Automatically condenses long pieces of text into shorter summaries while allowing you to set a desired word limit.
-Named Entity Recognition (NER): Identifies key entities such as names, dates, and organizations in your text and presents them visually.
-Sentiment Analysis: Tells you whether the text you've entered is positive, negative, or neutral.
-Question Answering: Allows you to ask specific questions, and the app will find precise answers from a given block of text.
-Text Completion: Automatically completes the text you start typing, using advanced AI models.
+- Text Summarization: Automatically condenses long pieces of text into shorter summaries while allowing you to set a desired word limit.
+- Named Entity Recognition (NER): Identifies key entities such as names, dates, and organizations in your text and presents them visually.
+- Sentiment Analysis: Tells you whether the text you've entered is positive, negative, or neutral.
+- Question Answering: Allows you to ask specific questions, and the app will find precise answers from a given block of text.
+- Text Completion: Automatically completes the text you start typing, using advanced AI models.
 
 ---
