@@ -19,3 +19,14 @@ The app includes:
 - Text Completion: Automatically completes the text you start typing, using advanced AI models.
 
 ---
+
+## Installation and Setup
+
+### Prerequisites
+- Python 3.8 or higher
+- Required Python libraries (listed in the `requirements.txt` file)
+
+### Clone the Repository
+```bash
+git clone <repository-url>
+cd <repository-directory>
